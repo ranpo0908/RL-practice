@@ -1,6 +1,5 @@
 ## Day 1 — Random/Fixed Policy Baselines (CartPole-v1)
-
-**Date:** 2026-02-27  
+  
 **Script:** `cleanrl/random_cartpole.py`
 
 ### Run Commands

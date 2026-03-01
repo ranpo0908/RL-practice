@@ -39,7 +39,7 @@ def main():
     parser.add_argument("--env-id", type=str, default="CartPole-v1")
     parser.add_argument("--seed", type=int, default=0)
     parser.add_argument("--episodes", type=int, default=50)
-    parser.add_argument("--outdir", type=str, default=os.path.join("experiments", "2026-02-27"))
+    parser.add_argument("--outdir", type=str, default=os.path.join("experiments", "Ex-01"))
 
     # (i) action-space seeding mode: 0/1/2
     # 0: do not seed action_space at all
